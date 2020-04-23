@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kunalvarma05/dropbox-php-sdk": "^0.2.1",
+        "spatie/dropbox-api": "^1.12",
+        "spatie/flysystem-dropbox": "^1.2"
+    }
+}
